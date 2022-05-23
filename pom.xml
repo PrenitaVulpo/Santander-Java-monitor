@@ -21,7 +21,6 @@
 
     <modules>
         <module>monitoramento</module>
-        <module>cloud</module>
     </modules>
 
     <properties>
